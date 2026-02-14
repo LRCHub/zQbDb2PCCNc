@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛の塊",
+  "base_artist": "the paddles",
+  "createdAt": "2026-02-14T05:09:17.918658Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の塊",
+      "artist": "the paddles",
+      "has_synced": false,
+      "path": "select/pl_01_愛の塊_the_paddles.txt"
+    }
+  ]
+}
